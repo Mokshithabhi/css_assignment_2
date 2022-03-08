@@ -3,9 +3,9 @@
     border-style: groove;
     border-width:10px;
     background-color: azure;
-    width: auto;
+/*     width: auto;
     height: auto;
-    align-items: center;
+    align-items: center; */
 }
 
 .box{
